@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976980092466",
+    "project_id": "reeducation-d7e9c",
+    "storage_bucket": "reeducation-d7e9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976980092466:android:abdb5bec8a942ef1e8fe2b",
+        "android_client_info": {
+          "package_name": "com.example.reeducation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1Du8BlI528HOzNn6OI_tDybu0iUqK-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
